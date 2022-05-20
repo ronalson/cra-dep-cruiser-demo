@@ -1,3 +1,23 @@
+# About
+
+Demo for [Dependency Cruiser](https://github.com/sverweij/dependency-cruiser)
+
+_References_
+
+- [Similar issue with Typescript](https://github.com/sverweij/dependency-cruiser/blob/develop/doc/faq.md#q-it-looks-like-dependency-cruiser-only-detects-the-first-of-level-dependencies---what-is-going-on-typescript)
+
+- [Create React App - Absolute Imports](https://create-react-app.dev/docs/importing-a-component/#absolute-imports)
+
+**Output without absolute imports**
+
+![No Absolute Import](./depcruise/no-absolute-import.svg "No Absolute Import")
+
+**Output with absolute imports**
+
+![With Absolute Import](./depcruise/with-absolute-import.svg "With Absolute Import")
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
